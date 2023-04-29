@@ -1,4 +1,4 @@
-# Leon-Website
+# LEON-Website
 
 ## Responsive Website Made with HTML And CSS
 
