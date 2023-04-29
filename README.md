@@ -4,4 +4,4 @@
 
 Demo:
 
-https://islam-solaiman.github.io/Leon-Website/
+https://islam-solaiman.github.io/LEON-Website/
